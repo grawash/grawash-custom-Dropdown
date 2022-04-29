@@ -1,0 +1,22 @@
+{
+  "name": "grawash-dropdown",
+  "version": "1.0.0",
+  "description": "simple animated dropdown menu created using javascript.",
+  "main": "drop-down.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grawash/grawash-custom-Dropdown.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "grawash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grawash/grawash-custom-Dropdown/issues"
+  },
+  "homepage": "https://github.com/grawash/grawash-custom-Dropdown#readme"
+}
