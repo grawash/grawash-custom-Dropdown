@@ -1,6 +1,4 @@
-const parent = document.querySelector(".dropDown");
-
-function dropDown(div) {
+function dropdown(div) {
   let toggle;
   const childNodes = div.children;
   div.style.cssText = "position:relative;";
@@ -32,4 +30,4 @@ function dropDown(div) {
   });
 }
 
-dropDown(parent);
+module.exports = dropdown
